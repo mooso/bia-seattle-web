@@ -5,3 +5,19 @@
 h1, h2 {
     text-align: center;
 }
+
+body {
+    background-color: rgba(218, 237, 255, 1);
+}
+
+.navbar-bia {
+    background-color: rgba(149, 198, 236, 1);
+    padding-top: 20px;
+}
+
+.chapter-heading {
+    color: rgb(57, 114, 155);
+    font: normal normal normal 21px/1.3em Verdana,geneva,sans-serif;
+    text-align: left;
+    padding-top: 30px;
+}
