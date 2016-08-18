@@ -3,12 +3,12 @@
 }
 
 body {
-    background-color: rgba(218, 237, 255, 1);
+    background-color: rgb(218, 237, 255);
     padding-bottom: 5em;
 }
 
 .navbar-bia {
-    background-color: rgba(149, 198, 236, 1);
+    background-color: rgb(149, 198, 236);
     padding-top: 20px;
 }
 
@@ -17,4 +17,28 @@ body {
     font: normal normal normal 21px/1.3em Verdana,geneva,sans-serif;
     text-align: left;
     padding-top: 30px;
+}
+
+.site-head {
+	background-color: rgb(57, 114, 155);
+}
+
+.site-head div {
+	height: 2em;
+	vertical-align: center;
+	text-align: center;
+}
+
+.site-head a {
+	font-family: Verdana,geneva,sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: rgb(212, 237, 245);
+	display: inline-block;
+	padding-top: 4px;
+}
+
+.site-head-highlighted {
+	background-color: rgb(20, 104, 168);
 }
