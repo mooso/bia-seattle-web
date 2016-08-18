@@ -2,12 +2,9 @@
     color: #03a9f4;
 }
 
-h1, h2 {
-    text-align: center;
-}
-
 body {
     background-color: rgba(218, 237, 255, 1);
+    padding-bottom: 5em;
 }
 
 .navbar-bia {
