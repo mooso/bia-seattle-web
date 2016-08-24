@@ -42,3 +42,7 @@ body {
 .site-head-highlighted {
 	background-color: rgb(20, 104, 168);
 }
+
+.important-info {
+	font-size: 18px;
+}
